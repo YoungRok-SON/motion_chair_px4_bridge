@@ -3,7 +3,9 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src/motion_bridge/include/motion_bridge/**",
+                "/opt/ros/noetic/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/g++",
