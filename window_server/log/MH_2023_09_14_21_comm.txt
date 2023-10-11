@@ -1,0 +1,56 @@
+2023.09.14 21:38:44, [UartCommunicator] send error comport:3 errorCount:1, errorNumber:5
+2023.09.14 21:38:44, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:44, onCommResult 8
+2023.09.14 21:38:44, [UartCommunicator] send error comport:3 errorCount:2, errorNumber:5
+2023.09.14 21:38:44, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:44, onCommResult 8
+2023.09.14 21:38:45, [UartCommunicator] send error comport:3 errorCount:3, errorNumber:5
+2023.09.14 21:38:45, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:45, onCommResult 8
+2023.09.14 21:38:45, [UartCommunicator] send error comport:3 errorCount:4, errorNumber:5
+2023.09.14 21:38:45, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:45, onCommResult 8
+2023.09.14 21:38:46, [UartCommunicator] send error comport:3 errorCount:5, errorNumber:5
+2023.09.14 21:38:46, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:46, onCommResult 8
+2023.09.14 21:38:46, [UartCommunicator] send error comport:3 errorCount:6, errorNumber:5
+2023.09.14 21:38:46, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:46, onCommResult 8
+2023.09.14 21:38:47, [UartCommunicator] send error comport:3 errorCount:7, errorNumber:5
+2023.09.14 21:38:47, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:47, onCommResult 8
+2023.09.14 21:38:47, [UartCommunicator] send error comport:3 errorCount:8, errorNumber:5
+2023.09.14 21:38:47, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:47, onCommResult 8
+2023.09.14 21:38:48, [UartCommunicator] send error comport:3 errorCount:9, errorNumber:5
+2023.09.14 21:38:48, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:48, onCommResult 8
+2023.09.14 21:38:48, [UartCommunicator] send error comport:3 errorCount:10, errorNumber:5
+2023.09.14 21:38:48, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:48, onCommResult 8
+2023.09.14 21:38:49, [UartCommunicator] send error comport:3 errorCount:11, errorNumber:5
+2023.09.14 21:38:49, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:49, onCommResult 8
+2023.09.14 21:38:49, [UartCommunicator] send error comport:3 errorCount:12, errorNumber:5
+2023.09.14 21:38:49, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:49, onCommResult 8
+2023.09.14 21:38:50, [UartCommunicator] send error comport:3 errorCount:13, errorNumber:5
+2023.09.14 21:38:50, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:50, onCommResult 8
+2023.09.14 21:38:50, [UartCommunicator] send error comport:3 errorCount:14, errorNumber:5
+2023.09.14 21:38:50, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:50, onCommResult 8
+2023.09.14 21:38:51, [UartCommunicator] send error comport:3 errorCount:15, errorNumber:5
+2023.09.14 21:38:51, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:51, onCommResult 8
+2023.09.14 21:38:51, [UartCommunicator] send error comport:3 errorCount:16, errorNumber:5
+2023.09.14 21:38:51, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:51, onCommResult 8
+2023.09.14 21:38:52, [UartCommunicator] send error comport:3 errorCount:17, errorNumber:5
+2023.09.14 21:38:52, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:52, onCommResult 8
+2023.09.14 21:38:52, [UartCommunicator] send error comport:3 errorCount:18, errorNumber:5
+2023.09.14 21:38:52, [UartCommunicator] ClearCommError error comport:3 errorNumber:5
+2023.09.14 21:38:52, onCommResult 8
+2023.09.14 21:38:53, Pid:49188 no response
+2023.09.14 21:38:53, HIDPacketHandler is stopped.

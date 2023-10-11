@@ -91,13 +91,13 @@ int main()
 		if (m_i_str_length == -1)
 			errorHandling("read() error!");
 
-		printf("Meassage from client: %s \n\n", m_c_message);
+		//printf("Meassage from client: %s \n\n", m_c_message);
 		send(m_h_client_sock, m_c_message, 64, 0);
 
 		// 받은 문자열 자르기
 		char *c_pitch_deg = NULL;
 		char* c_roll_deg = strtok_s(m_c_message, ",", &c_pitch_deg);
-		printf("Roll: %s Pitch: %s \n", c_roll_deg, c_pitch_deg);
+		//printf("Roll: %s Pitch: %s \n", c_roll_deg, c_pitch_deg);
 
 		// 받은 char array를 float으로 변환
 		float f_roll_deg = atof(c_roll_deg);
@@ -105,7 +105,7 @@ int main()
 		printf("Roll: %f Pitch: %f \n", f_roll_deg, f_pitch_deg);
 
 		// motionSDK를 사용하여 롤, 피치값 전송.
-		SetDllMotionTelemetry(1, f_roll_deg * 3.141592 / 180, f_pitch_deg * 3.141592 / 180, 0, 0, 0, 0, 0);
+		SetDllMotionTelemetry(1, -f_roll_deg * 3.141592 / 180/2, -f_pitch_deg * 3.141592 / 180/2, 0, 0, 0, 0, 0);
 		
 	}
 

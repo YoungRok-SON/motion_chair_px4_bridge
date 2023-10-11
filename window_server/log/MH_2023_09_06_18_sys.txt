@@ -1,0 +1,217 @@
+2023.09.06 18:16:44, 
+2023.09.06 18:16:44, MHSDKManager::GetInstance() g_MHSDKInitCount:1.
+2023.09.06 18:16:44, MotionHouseSDK version :2023062601
+2023.09.06 18:16:44, MotionHouseSDK.ini load fail.. currentDirectory :C:\Users\Simulation Computer\source\repos\motion_chair_px4_bridge\window_server
+2023.09.06 18:16:44, BeltChecker don't be used.
+2023.09.06 18:16:44, topAddress SYSTEM\ControlSet001\Enum\FTDIBUS 1
+2023.09.06 18:16:44, find registry result : USB Serial Port(COM3)
+2023.09.06 18:16:44, finalAddress SYSTEM\ControlSet001\Enum\FTDIBUS\VID_0403+PID_6001+MHMGA\0000
+2023.09.06 18:16:44, uartCount 0
+2023.09.06 18:16:44, Finding Uart Connection failed
+2023.09.06 18:16:44, Device Connected 0
+2023.09.06 18:16:44, DeviceManager initialization process fail, any device is not found
+2023.09.06 18:45:17, 
+2023.09.06 18:45:17, MHSDKManager::GetInstance() g_MHSDKInitCount:1.
+2023.09.06 18:45:17, MotionHouseSDK version :2023062601
+2023.09.06 18:45:17, USE_EMULATOR_STEP2 : 0
+2023.09.06 18:45:17, USE_EMULATOR_STEP4 : 0
+2023.09.06 18:45:17, USE_EMULATOR_CAC4_GEAR_KI : 0
+2023.09.06 18:45:17, USE_EMULATOR_CAC3_TOP_KI : 0
+2023.09.06 18:45:17, USE_EMULATOR_CAC3_BASE_KI : 0
+2023.09.06 18:45:17, USE_EMULATOR_CAC_STEWART_PLATFORM : 0
+2023.09.06 18:45:17, USE_EMULATOR_CAC_6AXIS_HDI : 0
+2023.09.06 18:45:17, USE_EMULATOR_CAC_6GEARS : 0
+2023.09.06 18:45:17, USE_EMULATOR_ROK_AIR_6GEARS : 0
+2023.09.06 18:45:17, 4UN_VER2_STRENGTH : 12
+2023.09.06 18:45:17, 4UN_VER2_INERTIA : 100
+2023.09.06 18:45:17, 2UN_VER2_STRENGTH : 14
+2023.09.06 18:45:17, 2UN_VER2_INERTIA : 100
+2023.09.06 18:45:17, CAC_STEWART_STRENGTH : 12
+2023.09.06 18:45:17, CAC_STEWART_INERTIA : 200
+2023.09.06 18:45:17, CAC_4DOF_GEARS_KI_STRENGTH : 16
+2023.09.06 18:45:17, CAC_4DOF_GEARS_KI_INERTIA : 250
+2023.09.06 18:45:17, CAC_3DOF_TOP_KI_STRENGTH : 14
+2023.09.06 18:45:17, CAC_3DOF_TOP_KI_INERTIA : 150
+2023.09.06 18:45:17, CAC_3DOF_BASE_KI_STRENGTH : 15
+2023.09.06 18:45:17, CAC_3DOF_BASE_KI_INERTIA : 150
+2023.09.06 18:45:17, 4UN_VER2_5MM_STRENGTH : 14
+2023.09.06 18:45:17, 4UN_VER2_5MM_INERTIA : 100
+2023.09.06 18:45:17, CAC_6DOF_GEARS_STRENGTH : 14
+2023.09.06 18:45:17, CAC_6DOF_GEARS_INERTIA : 200
+2023.09.06 18:45:17, SURGE_TL_STRENGTH : 12
+2023.09.06 18:45:17, SURGE_TL_INERTIA : 100
+2023.09.06 18:45:17, NT_3DOF_GEAR_STRENGTH : 14
+2023.09.06 18:45:17, NT_3DOF_GEAR_INERTIA : 180
+2023.09.06 18:45:17, HIU_4DOF_TOP_SMF_BASE : 250
+2023.09.06 18:45:17, HIU_4DOF_TOP_SMF_DIFF : 10
+2023.09.06 18:45:17, HIU_3DOF_BASE_SMF_BASE : 250
+2023.09.06 18:45:17, HIU_3DOF_BASE_SMF_DIFF : 10
+2023.09.06 18:45:17, HIU_TOP_4DOF_SYNC_MODE : 0
+2023.09.06 18:45:17, USE_TRACE_DEVICE : 0
+2023.09.06 18:45:17, RECONNECT_DEVICE : 1
+2023.09.06 18:45:17, RECONNECT_DELAY : 100
+2023.09.06 18:45:17, USER_PROGRAM_UDP_PORT : 0
+2023.09.06 18:45:17, USER_PROGRAM_UDP_PORT : 0
+2023.09.06 18:45:17, MOTION_GEAR_PORT1 : 0
+2023.09.06 18:45:17, MOTION_GEAR_PORT1 : 0
+2023.09.06 18:45:17, MOTION_GEAR_PORT2 : 0
+2023.09.06 18:45:17, MOTION_GEAR_PORT3 : 0
+2023.09.06 18:45:17, MOTION_GEAR_PORT4 : 0
+2023.09.06 18:45:17, EXTERNAL_MOTION_PORT : 0
+2023.09.06 18:45:17, EXTERNAL_MOTION_PORT : 0
+2023.09.06 18:45:17, SDKPATH doesn't exist .
+2023.09.06 18:45:17, Current SDKPATH : 
+2023.09.06 18:45:17, MotionHouseSDK.ini Load failed
+2023.09.06 18:45:17, BeltChecker don't be used.
+2023.09.06 18:45:17, topAddress SYSTEM\ControlSet001\Enum\FTDIBUS 1
+2023.09.06 18:45:17, find registry result : USB Serial Port(COM3)
+2023.09.06 18:45:17, connection check port ok. COM3
+2023.09.06 18:45:17, finalAddress SYSTEM\ControlSet001\Enum\FTDIBUS\VID_0403+PID_6001+MHMGA\0000
+2023.09.06 18:45:17, uartCount 1
+2023.09.06 18:45:17, uartNumber 3
+2023.09.06 18:45:17, uart handle created 3
+2023.09.06 18:45:20, tryToConnect 3 0, 115200
+2023.09.06 18:45:20, Uart Connection open error COM3, errorCode:183, 115200
+2023.09.06 18:45:21, uart handle created 3
+2023.09.06 18:45:21, tryToConnect 3 49188, 921600
+2023.09.06 18:45:21, MHUart Connection deviceType:17  pid:49188  COM3 SPEED:921600
+2023.09.06 18:45:21, PositionManagerVersion: 2022062001, usageTime: 0, serialNumber: 0 productDate: 385281160 powerOnTime: 487534354
+2023.09.06 18:45:21, PositionManager initialized 2022062001
+2023.09.06 18:45:21, DeviceConnectted DEVICE_TYPE_MH_CAC_2UN_VER3
+2023.09.06 18:45:21, DEVICE_TYPE_MH_CAC_2UN_VER3::ReadDriverParamWord() success. GetDriverParam() success 1 8 30000
+2023.09.06 18:45:21, DEVICE_TYPE_MH_CAC_2UN_VER3::ReadDriverParamWord() success. GetDriverParam() success 2 8 30000
+2023.09.06 18:45:21, DEVICE_TYPE_MH_CAC_2UN_VER3::ReadDriverParamWord() success. GetDriverParam() success 1 909 16500
+2023.09.06 18:45:21, DEVICE_TYPE_MH_CAC_2UN_VER3::ReadDriverParamWord() success. GetDriverParam() success 2 909 16500
+2023.09.06 18:45:21, DEVICE_TYPE_MH_CAC_2UN_VER3::ReadDriverParamWord() success. GetDriverParam() success 1 910 16500
+2023.09.06 18:45:21, DEVICE_TYPE_MH_CAC_2UN_VER3::ReadDriverParamWord() success. GetDriverParam() success 2 910 16500
+2023.09.06 18:45:21, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 1 3 14
+2023.09.06 18:45:22, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 2 3 14
+2023.09.06 18:45:22, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 1 4 250
+2023.09.06 18:45:22, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 2 4 250
+2023.09.06 18:45:22, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverSetting() success 14 250 -1
+2023.09.06 18:45:22, Default LoadConfig success
+2023.09.06 18:45:27, RequestGetCalibrationSync() fail 0 CalibrationWaitComplete()
+2023.09.06 18:45:34, Cylinder[0] min:16250  max:349750 center:183000
+2023.09.06 18:45:34, Cylinder[1] min:16250  max:349750 center:183000
+2023.09.06 18:45:34, Local\MHTrace_17, Create shared memory success
+2023.09.06 18:45:34, DEVICE_TYPE_MH_CAC_2UN_VER3 Initialization success
+2023.09.06 18:45:36, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 1 3 13
+2023.09.06 18:45:36, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 2 3 13
+2023.09.06 18:45:36, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 1 4 100
+2023.09.06 18:45:36, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 2 4 100
+2023.09.06 18:45:36, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverSetting() success 13 100 -1
+2023.09.06 18:45:37, Device Connected 1
+2023.09.06 18:45:37, process list start
+2023.09.06 18:45:37, process path C:\Program Files\Oculus\Support\oculus-runtime\OVRServer_x64.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\conhost.exe
+2023.09.06 18:45:37, process path C:\Program Files\LogiOptionsPlus\logioptionsplus_agent.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\sihost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\svchost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\svchost.exe
+2023.09.06 18:45:37, process path C:\Program Files\GIGABYTE\Control Center\GCC.exe
+2023.09.06 18:45:37, process path C:\Windows\explorer.exe
+2023.09.06 18:45:37, process path C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\ctfmon.exe
+2023.09.06 18:45:37, process path C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\taskhostw.exe
+2023.09.06 18:45:37, process path C:\Program Files\LogiOptionsPlus\logioptionsplus_appbroker.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\svchost.exe
+2023.09.06 18:45:37, process path C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\RuntimeBroker.exe
+2023.09.06 18:45:37, process path C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\RuntimeBroker.exe
+2023.09.06 18:45:37, process path C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\RuntimeBroker.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\conhost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\taskhostw.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23072.150.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\RuntimeBroker.exe
+2023.09.06 18:45:37, process path C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe
+2023.09.06 18:45:37, process path C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Intel\Driver and Support Assistant\DSATray.exe
+2023.09.06 18:45:37, process path C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+2023.09.06 18:45:37, process path C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\RuntimeBroker.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\smartscreen.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\SecurityHealthSystray.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_b55ed36a9a78cc75\RtkAudUService64.exe
+2023.09.06 18:45:37, process path C:\Users\Simulation Computer\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\steam.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Gigabyte\EasyTuneEngineService\GraphicsCardEngine.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\CompPkgSrv.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\svchost.exe
+2023.09.06 18:45:37, process path C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\dllhost.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Epic Games\Launcher\Engine\Binaries\Win64\EpicWebHelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrmonitor.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrserver.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\dllhost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\dllhost.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslrelay.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\conhost.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\conhost.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrwebhelper\win64\vrwebhelper.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\audiodg.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.VSDetouredHost.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.SettingsHost.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\msrdc.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.17.11461.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\RuntimeBroker.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.17.11461.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\CanonicalGroupLimited.Ubuntu20.04LTS_2004.6.16.0_x64__79rhkp1fndgsc\ubuntu2004.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\wsl.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wsl.exe
+2023.09.06 18:45:37, process path C:\Program Files\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForLinux_1.2.5.0_x64__8wekyb3d8bbwe\wslhost.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\conhost.exe
+2023.09.06 18:45:37, process path C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor.exe
+2023.09.06 18:45:37, process path C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\CrashReportClientEditor.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\vcpkgsrv.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.IndexingService.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\vcpkgsrv.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe
+2023.09.06 18:45:37, process path C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe
+2023.09.06 18:45:37, process path C:\Windows\System32\conhost.exe
+2023.09.06 18:45:37, process path C:\Users\Simulation Computer\source\repos\motion_chair_px4_bridge\x64\Debug\window_server.exe
+2023.09.06 18:45:37, process list end
+2023.09.06 18:45:37, Default MotionProfile
+2023.09.06 18:45:37, m_UseFlag: 1
+2023.09.06 18:45:37, m_Roll: 25
+2023.09.06 18:45:37, m_Pitch: 25
+2023.09.06 18:45:37, m_TrationLoss: 0
+2023.09.06 18:45:37, m_Sway: 40
+2023.09.06 18:45:37, m_Surge: 40
+2023.09.06 18:45:37, m_Heave: 5
+2023.09.06 18:45:37, m_Accel: 6
+2023.09.06 18:45:37, m_Smooth: 4
+2023.09.06 18:45:37, m_Vibration: 5
+2023.09.06 18:45:37, m_MaxSpeed: 850
+2023.09.06 18:45:37, MotionHouseSDK 2023062601 all initialization process done
+2023.09.06 18:45:37, called SetCenterPosition()
+2023.09.06 18:45:40, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 1 3 14
+2023.09.06 18:45:40, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 2 3 14
+2023.09.06 18:45:40, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 1 4 250
+2023.09.06 18:45:40, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverParamWordSetting() success. SetDriverParam() success 2 4 250
+2023.09.06 18:45:40, DEVICE_TYPE_MH_CAC_2UN_VER3::ApplyDriverSetting() success 14 250 -1

@@ -12,8 +12,8 @@
 #include <Windows.h>
 
 // Motion House library import
-#include "MHDLL.h"
-#include "MHSDKDLL.h"
+#include "include/MHDLL.h"
+#include "include/MHSDKDLL.h"
 
 
 WSADATA m_wsaData; // for what?
