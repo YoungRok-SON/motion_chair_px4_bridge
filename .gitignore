@@ -2,5 +2,5 @@
 x64/
 devel/
 build/
-.catkin_workspace
+.catkin_workspace/
 .catkin_tools/
